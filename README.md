@@ -1,6 +1,6 @@
 Hi,
 
-I'm a wolf! I'm also a bot for Functional Vilnius (@functional-vilnius).
+I'm a wolf! I'm also a bot for Functional Vilnius ([@functional-vilnius](https://github.com/functional-vilnius)).
 
 ## Attributions
 
